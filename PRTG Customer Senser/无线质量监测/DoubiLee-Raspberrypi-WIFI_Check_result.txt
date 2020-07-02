@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<prtg>
+   <result>
+       <channel>Packet loss</channel>
+       <unit>Percent</unit>
+       <mode>Absolute</mode>
+       <LimitMaxError>20</LimitMaxError>
+       <LimitMaxWarning>10</LimitMaxWarning>
+       <value>0</value>
+   </result>
+   <result>
+       <channel>Ping Min Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>1.176</value>
+   </result>
+   <result>
+       <channel>Ping Max Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMaxError>500</LimitMaxError>
+       <LimitMaxWarning>200</LimitMaxWarning>
+       <value>13.197</value>
+   </result>
+   <result>
+       <channel>Ping Avg Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMaxError>100</LimitMaxError>
+       <LimitMaxWarning>50</LimitMaxWarning>
+       <value>2.035</value>
+   </result>
+   <result>
+       <channel>Ping Mean Deviation Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>0.971</value>
+   </result>
+   <result>
+       <channel>Ping Total Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>993</value>
+   </result>
+   <result>
+       <channel>Radio Frequency</channel>
+       <CustomUnit>GHz</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>5.3</value>
+   </result>
+   <result>
+       <channel>Radio BitRate</channel>
+       <CustomUnit>Mb/s</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMinError>50</LimitMinError>
+       <LimitMinWarning>70</LimitMinWarning>
+       <value>72.2</value>
+   </result>
+   <result>
+       <channel>Radio LinkQuality</channel>
+       <CustomUnit>/70</CustomUnit>
+       <mode>Absolute</mode>
+       <value>39</value>
+   </result>
+   <result>
+       <channel>Radio Signallevel</channel>
+       <CustomUnit>dBm</CustomUnit>
+       <mode>Absolute</mode>
+       <value>-71</value>
+   </result>
+   <text>Device Name:DoubiLee-Raspberrypi  AccessPoint:80:8D:B7:16:81:70</text>
+</prtg>

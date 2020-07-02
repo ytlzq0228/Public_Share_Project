@@ -1,0 +1,14 @@
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Frequency:5.3 GHz  Access Point: Not-Associated   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:on
+          
+<device_temp>
+42842
+</device_temp>
+<device_eth0ip>
+10.0.0.102
+</device_eth0ip>
+<device_wlanip>
+</device_wlanip>

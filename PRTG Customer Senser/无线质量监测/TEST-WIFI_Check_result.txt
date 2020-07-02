@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<prtg>
+   <result>
+       <channel>Packet loss</channel>
+       <unit>Percent</unit>
+       <mode>Absolute</mode>
+       <LimitMaxError>20</LimitMaxError>
+       <LimitMaxWarning>10</LimitMaxWarning>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Ping Min Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Ping Max Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMaxError>500</LimitMaxError>
+       <LimitMaxWarning>200</LimitMaxWarning>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Ping Avg Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMaxError>100</LimitMaxError>
+       <LimitMaxWarning>50</LimitMaxWarning>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Ping Mean Deviation Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Ping Total Time</channel>
+       <CustomUnit>ms</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Radio Frequency</channel>
+       <CustomUnit>GHz</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <value>5.3</value>
+   </result>
+   <result>
+       <channel>Radio BitRate</channel>
+       <CustomUnit>Mb/s</CustomUnit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMinError>50</LimitMinError>
+       <LimitMinWarning>70</LimitMinWarning>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Radio LinkQuality</channel>
+       <CustomUnit>/70</CustomUnit>
+       <mode>Absolute</mode>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Radio Signallevel</channel>
+       <CustomUnit>dBm</CustomUnit>
+       <mode>Absolute</mode>
+       <value>N/A</value>
+   </result>
+   <result>
+       <channel>Probe Temperature</channel>
+       <Unit>Temperature</Unit>
+       <mode>Absolute</mode>
+       <float>1</float>
+       <LimitMaxError>60</LimitMaxError>
+       <LimitMaxWarning>55</LimitMaxWarning>
+       <value>42.842</value>
+   </result>
+   <text>Updatetime:15:23:58 Eth0_IP:10.0.0.102 Wlan_IP: WLAN Gateway IP:N/A AccessPoint:Not-Associated   </text>
+</prtg>
