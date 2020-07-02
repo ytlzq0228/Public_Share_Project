@@ -5,6 +5,8 @@ import os
 CORPID="ww*********8b1"
 AGENTID="1*********2"
 CORPSECRET="EHH*****************************9Kw"
+#以上替换成真实的企业微信应用鉴权信息
+
 
 def gettoken():
 	try:
