@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		7B28584524AD8AD500A78A40 /* 企业微信推送AD密码即将到期提醒 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "企业微信推送AD密码即将到期提醒"; sourceTree = "<group>"; };
+		7B28584624AD8CE400A78A40 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		7B28583924AD895A00A78A40 = {
 			isa = PBXGroup;
 			children = (
+				7B28584624AD8CE400A78A40 /* README.md */,
 				7B28584524AD8AD500A78A40 /* 企业微信推送AD密码即将到期提醒 */,
 			);
 			sourceTree = "<group>";
