@@ -1,0 +1,2 @@
+2020-07-15 12:40:24,112 [django.request:222] [log:log_response] [WARNING]- Not Found: /api/
+2020-07-15 12:53:58,553 [django.request:222] [log:log_response] [WARNING]- Not Found: /api/
