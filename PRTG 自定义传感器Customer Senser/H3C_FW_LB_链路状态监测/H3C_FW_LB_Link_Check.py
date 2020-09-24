@@ -37,7 +37,7 @@ result = ''.join(lines).replace('\r\r','').split('\n')
 link_state='No_Link_name'
 
 for i in result:
-	if link_name in i:
+	if link_name and link_name in i:
 		link_state=i.split()[2]
 
 if link_state=='Active':
