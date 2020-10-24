@@ -42,6 +42,8 @@ for i in result:
 
 if link_state=='Active':
 	print('0:Active')
+elif link_state=='Busy':
+	print('1:Busy')
 elif link_state=='No_Link_name':
 	print('1:No_Link_name')
 else:
