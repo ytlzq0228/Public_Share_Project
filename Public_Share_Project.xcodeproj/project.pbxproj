@@ -10,6 +10,7 @@
 		7B28584524AD8AD500A78A40 /* 企业微信推送AD密码即将到期提醒 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "企业微信推送AD密码即将到期提醒"; sourceTree = "<group>"; };
 		7B28584624AD8CE400A78A40 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7B28584724ADB93E00A78A40 /* PRTG 自定义传感器Customer Senser */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "PRTG 自定义传感器Customer Senser"; sourceTree = "<group>"; };
+		7BBE42A1258A0DF100BA0AF8 /* 阿里云报警回调+Django */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "阿里云报警回调+Django"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +18,7 @@
 			isa = PBXGroup;
 			children = (
 				7B28584624AD8CE400A78A40 /* README.md */,
+				7BBE42A1258A0DF100BA0AF8 /* 阿里云报警回调+Django */,
 				7B28584724ADB93E00A78A40 /* PRTG 自定义传感器Customer Senser */,
 				7B28584524AD8AD500A78A40 /* 企业微信推送AD密码即将到期提醒 */,
 			);
