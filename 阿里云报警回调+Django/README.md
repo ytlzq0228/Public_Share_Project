@@ -1,3 +1,5 @@
+更好的阅读体验，可以移步原文
+[【逗老师带你学IT】阿里云监控报警回调消息转发到企业微信推送+SnmpTrap+PRTG](https://ctsdn.blog.csdn.net/article/details/111276903)
 
 本文解决了一个阿里云监控和告警中比较常见的问题。
 
