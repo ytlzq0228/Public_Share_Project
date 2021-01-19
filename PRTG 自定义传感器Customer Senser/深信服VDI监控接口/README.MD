@@ -1,3 +1,5 @@
+更好的阅读体验可以移步原文链接
+[【逗老师带你学IT】PRTG、Zabbix通过API监控深信服VDC和VMP云桌面运行状态](https://ctsdn.blog.csdn.net/article/details/112802985)
 
 本文介绍，如果使用API让PRTG和Zabbix等第三方监控系统获取深信服云桌面产品（VDC+VMP）的运行状态，可以获取的监控项包括
 
