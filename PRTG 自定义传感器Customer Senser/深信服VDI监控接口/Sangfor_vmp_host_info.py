@@ -9,7 +9,7 @@ requests.packages.urllib3.disable_warnings()
 data = json.loads(sys.argv[1])
 params=str(data['params']).replace("'",'"')
 params = json.loads(params)
-deviceip = params['plt_ip']
+deviceip = data['host']
 host_id = params['host_id']
 name=data['linuxloginusername']
 password=data['linuxloginpassword']
