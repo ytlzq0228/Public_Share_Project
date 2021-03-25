@@ -3,13 +3,11 @@ from time import sleep
 import json
 import re
 import sys
-#PORT = '/dev/cu.usbnut-AK08ROD4'
 
 data = json.loads(sys.argv[1])
 params=str(data['params']).replace("'",'"')
 params = json.loads(params)
 nut_ipaddress = params['nut']
-#nut_ipaddress='10.0.8.10'
 
 def get_nut_data(nut_ipaddress):
 	try:
