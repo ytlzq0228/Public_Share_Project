@@ -73,11 +73,11 @@ for i in result:
 	print(i)
 ```
 很好，跟平日里ssh登录到设备商看到的信息一样。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200924182815603.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70#pic_left)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210406140247834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70)
 # 三、查找指定链路名称的链路状态
 我们现在，需要按照给定的链路名称，或者其他关键字，查找到这条链路的状态。
 看看这个回显结果，思路很简单
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200924183344765.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70#pic_left)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210406140436657.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70)
 
 ```python
 link_state='No_Link_name'
@@ -174,7 +174,7 @@ C:\Program Files (x86)\PRTG Network Monitor\lookups\custom\xxx.ovl
 [PRTG Manual: Define Lookups](https://www.paessler.com/manuals/prtg/define_lookups)
 
 这样，当链路状态非Active时，PRTG会触发告警，例如：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200924191231860.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70#pic_left)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210406140538850.png)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200924191208270.png#pic_left)
 
