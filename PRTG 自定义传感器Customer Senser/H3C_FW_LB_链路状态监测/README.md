@@ -14,7 +14,7 @@
 
 但是查阅文档后，LB的link状态，以及NQA监测点，统统没有对应的SNMP OID。
 本文举例说明，将设备商通过`dis loadbalance link brief`命令获取的链路状态信息，通过Python处理后，展现在PRTG的监控指标中。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020092417574967.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70#pic_left)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210406135437996.png)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200924175921599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l0bHpxMDIyOA==,size_16,color_FFFFFF,t_70#pic_left)
 本文涉及的示例Github地址
 [Public_Share_Project/PRTG 自定义传感器Customer Senser/H3C_FW_LB_链路状态监测/](https://github.com/ytlzq0228/Public_Share_Project/tree/master/PRTG%20%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BC%A0%E6%84%9F%E5%99%A8Customer%20Senser/H3C_FW_LB_%E9%93%BE%E8%B7%AF%E7%8A%B6%E6%80%81%E7%9B%91%E6%B5%8B)
