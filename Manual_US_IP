@@ -11,6 +11,9 @@
 104.18.13.0/24    #OpenAI Chat GPT4
 104.18.2.0/24     #OpenAI Chat GPT4
 104.18.4.0/24     #OpenAI Chat GPT4
+104.18.19.0/24
+104.18.18.0/24
+23.56.239.0/24
 13.107.237.0/24   #OpenAI Chat GPT4 CDN
 104.218.221.46/32 #w0chp.net
 104.207.196.18/32 #lotw.arrl.org
